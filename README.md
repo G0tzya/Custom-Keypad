@@ -4,8 +4,7 @@ This project details the transformation of a standard office membrane keyboard i
 
 The core of the build involves salvaging the original controller PCB from the donor keyboard and reverse-engineering its matrix. This allows for a plug-and-play final product without any custom firmware or programming.
 
-(Add a picture of your finished keypad here!)
-`![Clean, custom-built mechanical keypad]`
+![Clean, custom-built mechanical keypad](pictures/Key_padjpg.jpg)
 
 ## Key Features
 
@@ -18,10 +17,6 @@ The core of the build involves salvaging the original controller PCB from the do
 
 1.  **Salvage:** An old office membrane keyboard was disassembled to extract its small controller PCB.
 2.  **Reverse Engineering:** I mapped the keyboard matrix by manually probing the pinouts on the controller. This identified which traces corresponded to each key.
-
-
-[Image of a keyboard matrix circuit diagram]
-
 3.  **Soldering:** The mechanical switches (pre-lubed) were carefully hand-soldered directly to the contacts on the salvaged PCB.
 4.  **Design & Print:** A custom case was modeled to provide a snug fit for the PCB and switches, resulting in a clean, modern aesthetic.
 5.  **Final Assembly:** All components were assembled into the new case to create the final, fully functional keypad.
