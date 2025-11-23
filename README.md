@@ -16,7 +16,7 @@ The core of the build involves salvaging the original controller PCB from the do
 ## The Process
 
 1.  **Salvage:** An old office membrane keyboard was disassembled to extract its small controller PCB.
-2.  **Reverse Engineering:** I mapped the keyboard matrix by manually probing the pinouts on the controller. This identified which traces corresponded to each key.
+2.  **Reverse Engineering:** I mapped the keyboard matrix by manually probing the pinouts on the controller. This identified which traces corresponded to each key. The full pinout map is available in [`reversed_encoder_pinout`](reversed_encoder_pinout).
 3.  **Soldering:** The mechanical switches (pre-lubed) were carefully hand-soldered directly to the contacts on the salvaged PCB.
 4.  **Design & Print:** A custom case was modeled to provide a snug fit for the PCB and switches, resulting in a clean, modern aesthetic.
 5.  **Final Assembly:** All components were assembled into the new case to create the final, fully functional keypad.
