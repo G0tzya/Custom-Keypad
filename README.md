@@ -6,6 +6,10 @@ The core of the build involves salvaging the original controller PCB from the do
 
 ![Clean, custom-built mechanical keypad](pictures/Key_padjpg.jpg)
 
+## Project Media
+
+All project images, including build photos and diagrams, are available in the [`pictures`](pictures) directory.
+
 ## Key Features
 
 * **Enthusiast Feel:** Built with fully mechanical switches, lubed for a smooth and quiet operation.
