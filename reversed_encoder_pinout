@@ -1,0 +1,26 @@
+C11 R7 IS PC SHUT OFF 
+
+C15 R6 song back
+C15 R5 song forward
+
+C14 R0 num_+
+C14 R2 enter
+C14 R4 song pause/play
+
+C13 R0 num_9
+C13 R1 num_6
+C13 R2 num_3
+C13 R3 num_dot
+C13 R4 num_*
+C13 R5 num_-
+
+C12 R0 num_8
+C12 R1 num_5
+C12 R2 num_2
+C12 R3 num_0
+C12 R4 num_/
+
+C11 R0 num_7
+C11 R1 num_4
+C11 R2 num_1
+C11 R4 num lock
