@@ -1,6 +1,6 @@
 # Enthusiast Mechanical Keypad from a Repurposed Keyboard
 
-This project details the transformation of a standard office membrane keyboard into a clean, enthusiast-grade mechanical keypad, complete with lubed switches and a custom-designed case.
+This project details the transformation of a standard office membrane keyboard into a clean, enthusiast-grade mechanical keypad, complete with lubed switches and a custom-designed case (Sorry I lost the CAD files). 
 
 The core of the build involves salvaging the original controller PCB from the donor keyboard and reverse-engineering its matrix. This allows for a plug-and-play final product without any custom firmware or programming.
 
