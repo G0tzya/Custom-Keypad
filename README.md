@@ -1,6 +1,6 @@
 # Enthusiast Mechanical Keypad from a Repurposed Keyboard
 
-This project details the transformation of a standard office membrane keyboard into a clean, enthusiast-grade mechanical keypad, complete with lubed switches and a custom-designed case (Sorry I lost the CAD files). 
+This project details the transformation of a standard membrane keyboard into a clean, enthusiast-grade mechanical keypad, complete with lubed switches and a custom-designed case (sorry, I lost the CAD files). 
 
 The core of the build involves salvaging the original controller PCB from the donor keyboard and reverse-engineering its matrix. This allows for a plug-and-play final product without any custom firmware or programming.
 
@@ -24,3 +24,8 @@ All project images, including build photos and diagrams, are available in the [`
 3.  **Soldering:** The mechanical switches (pre-lubed) were carefully hand-soldered directly to the contacts on the salvaged PCB.
 4.  **Design & Print:** A custom case was modeled to provide a snug fit for the PCB and switches, resulting in a clean, modern aesthetic.
 5.  **Final Assembly:** All components were assembled into the new case to create the final, fully functional keypad.
+
+## Notes
+
+* If you want to try building this project on your own, the specific keyboard I used was a [`Cyberpower Membrane Keyboard`](pictures/s-l1200.jpg). If you have a keyboard that looks similar in any way, the keyboard most likely uses the same cheap components, so feel free to try it out
+* I used the same screws from the original keyboard for the 3D-printed case. If you don't have those screws specifically, you may need to adjust the screw hole dimensions
