@@ -29,3 +29,4 @@ All project images, including build photos and diagrams, are available in the [`
 
 * If you want to try building this project on your own, the specific keyboard I used was a [`Cyberpower Membrane Keyboard`](pictures/s-l1200.jpg). If you have a keyboard that looks similar in any way, the keyboard most likely uses the same cheap components, so feel free to try it out
 * I used the same screws from the original keyboard for the 3D-printed case. If you don't have those screws specifically, you may need to adjust the screw hole dimensions
+* I used ANKO Rose mechanical switches and GPL 205 lube. I didn't have an extra 17 Rose switches, so I filled the rest with lubed Gateron Browns. I lubed them till they became linear lol.
